@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Theatre_Square_1A {
+public class Theatre_square_1A {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
