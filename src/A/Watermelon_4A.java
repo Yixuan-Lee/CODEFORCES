@@ -1,3 +1,5 @@
+package A;
+
 import java.util.Scanner;
 
 public class Watermelon_4A {

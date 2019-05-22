@@ -1,3 +1,5 @@
+package A;
+
 import java.util.Scanner;
 
 public class Next_round_158A {

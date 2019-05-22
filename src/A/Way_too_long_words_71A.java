@@ -1,3 +1,5 @@
+package A;
+
 import java.util.Scanner;
 
 public class Way_too_long_words_71A {
